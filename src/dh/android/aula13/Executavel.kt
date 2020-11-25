@@ -6,4 +6,5 @@ fun main() {
 
     contaCorrente1.depositar(50.0)
     contaPoupanca1.depositar(100.0)
+    contaPoupanca1.saque(120.0)
 }
